@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "15"
+mappingDefinitions:
+  SAMPLE:
+    database: SNOWFLAKE_LEARNING_DB
+    schema: COALESCE_TEST
+  WORK:
+    database: SNOWFLAKE_LEARNING_DB
+    schema: COALESCE_PRD
+name: PRD
+type: Environment
